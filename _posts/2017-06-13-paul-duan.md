@@ -1,0 +1,31 @@
+---
+title:  "Sônge"
+subtitle: "Artist"
+author: "Wferr"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2015-04-20 12:12:12
+---
+
+# Sônge
+## Artist
+ 
+# Atmospheric ride with colorful beats.
+ 
+Once I first met Océane aka Sônge, I was in charge to greet all the performing artists at the closing block party of our NOISE FESTIVAL 2016.  When some of our booked artists were a little bit surprised by our festival’s venue Le Chêne - an alternative spot found in Villejuif by blacksmiths - she surprised me with her true simplicity. Far from the narcissic divas we can meet in the entertainment industry, she was smiling all the time, really excited to take part in our joyful event. During her stage performance, I was busy fixing little problems all around the venue. With few stops in the backstage, I was only able to feel how the audience was conquered by her charisma, creative show and unique artistic direction. In the middle of the dark stage, her holographic bomber and glasses were enlightening her eyes.
+ 
+Sônge-1 > Photo Concert Noise la ViIle
+ 
+Sônge can sing in both English and French language, produce her own musical beats, and craft her outfit and scenography. She is one of these female performing artists who control their own artistic universe. These artists are spreading radical visions beyond the entertainment industry rules, reaching easily the political sphere to influence people’s emotions, minds and habits. In 2017, they are becoming iconic figures in the causes they advocate. I’m thinking of Solange for the “For Us By Us” black activism, MIA for the refugees, or SYD and Christine and The Queens for the LGBTQ communities. At her level, Sônge’s artistic proposition is less explicit, but it’s undeniable that she has this self-confidence to nurture her own radicality that doesn’t let anyone indifferent. 
+ 
+Videoclip “Colorblind” >> https://www.youtube.com/watch?v=tukrctNTwJ4
+ 
+Sônge has this inner-gift to absorb diverse artistic shades and combine them into a very unique but coherent landscape. This is not only due to her inner synaesthesia - a neurological phenomenon shared by many famous artists (Arthur Rimbaud, Pharrell, Charlie XCX, Duke Ellington, Stevie Wonder etc), in which the brain meddle various senses, prompting unusual sensory responses to stimuli - but her atypical cultural background too. Océane grew up in the middle of the Brittany region with African influences. In some interviews, she talks about her childhood inspirations and studies with horses, romantic musicians (Debussy, Wagnery), morning fogs and the local medieval heritage, with an open fascination for myths (Ethiopians, Mongolias, Moroccans, Algerians…). When the Youtube era favors natural mimetism amongst the Hip-Hop/RnB/Pop musicians, she is bringing her colorful and borderless imagination to her atmospheric creative process. This is quite refreshing, especially in those times where people tend to fall into their own bubbles. 
+ 
+Videoclip “Now” >> https://www.youtube.com/watch?v=MkLwXJ9Isls
+ 
+In late 2016, Sônge finally signed in the industry major Warner, and few weeks later she got plain pages to the famous Parisian cultural media “Les Inrocks”. Her first album is in the “working in progress” mode, and she keeps touring in very different types of concerts. Her gigs could either be some big European festivals (The Escape, Les Vieilles Charrues…), warm-up British rapper Little Simz at a feminist festival in Paris, but also little scenes all around France. 
+ 
+Sônge-2 >Photo Inrocks 
+ 
+The upcoming perspectives are exciting for Sônge, and I truly hope she will be able to have a great international career, with artistic independence and creative collaborations with creative artists like Kaytranada, Stromae or Young MA. She is managing to become one of the proud Brittany’s ambassadors, proving that cultural mixity can be effective beyond the biggest French cities. Slowly but surely, she is getting ready to overcome new barriers and conquer the world, as she did at the Noise Festival audience last year :)
