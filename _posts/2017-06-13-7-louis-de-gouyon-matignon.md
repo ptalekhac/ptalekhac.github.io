@@ -7,7 +7,7 @@ image: "img/2017-06-13-7-Louis-de-Gouyon-Matignon.jpeg"
 # Championing the world’s most vulnerable ones.
  
  
-Four years ago, my organization __Noise la Ville__ invited a panel of four speakers at Sciences Po __to debate on the gipsy communities’ heritage and current situation(s) in Europe__. There were three gipsy men, including Django Reinhardt’s grandson, but also this very young bright blond juvenile-lead with a very strong posh accent from the western Parisian bourgeoisie. At the beginning of the debate, I could already see a strong contrast amongst the speakers. While the three other panelists were still impressed by Sciences Po’s elitist context and the amphitheater, the young man was totally at ease. Few seconds after arriving on the panelists’ chair, he mechanically put the his last book on the panelist table to optimize their visibility. This guy is Louis de Gouyon Matignon, one of the craziest political activists I have ever met, who has been championing of one the most despised communities in Europe.
+Four years ago, my organization __Noise la Ville__ invited a panel of four speakers at Sciences Po __[to debate on the gipsy communities’ heritage and current situation(s) in Europe](http://www.noise-laville.fr/2013/11/20/conference-peut-on-sauver-lheritage-tzigane/)__. There were three gipsy men, including Django Reinhardt’s grandson, but also this very young bright blond juvenile-lead with a very strong posh accent from the western Parisian bourgeoisie. At the beginning of the debate, I could already see a strong contrast amongst the speakers. While the three other panelists were still impressed by Sciences Po’s elitist context and the amphitheater, the young man was totally at ease. Few seconds after arriving on the panelists’ chair, he mechanically put the his last book on the panelist table to optimize their visibility. This guy is Louis de Gouyon Matignon, one of the craziest political activists I have ever met, who has been championing of one the most despised communities in Europe.
  
 ![Louis de Gouyon Matignon-1](ptalekhac.github.io/img/Louis de Gouyon Matignon-1.jpg)
  
@@ -24,7 +24,7 @@ Few months later, he wrote his first book, a Gipsy dictionary. Most of the Paris
  
 ![Louis de Gouyon Matignon-3](ptalekhac.github.io/img/Louis de Gouyon Matignon-3.jpg)
  
-In 2014, Arte, the French-German cultural channel, broadcasted a documentary, __GADJO - Un prince chez les Manouches”__, that followed him between his different projects. In 2014, he created his own political organization, __The European Party__, to compete at the European parliament elections. One of their main measures is  the travelers’ rights within the European Union. 
+In 2014, Arte, the French-German cultural channel, broadcasted a documentary, __[GADJO - Un prince chez les Manouches”](https://www.youtube.com/watch?v=0dRVaJLvQ7Y)__, that followed him between his different projects. In 2014, he created his own political organization, __[The European Party](http://partieuropeen.com/)__, to compete at the European parliament elections. One of their main measures is  the travelers’ rights within the European Union. 
  
 ![Louis de Gouyon Matignon-4](ptalekhac.github.io/img/Louis de Gouyon Matignon-4.jpg) 
  
