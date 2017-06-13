@@ -21,7 +21,7 @@ __gras et *italique*__
 
 [Texte vers un lien](http://example.Com)
 
-![Alt text pour l'image](http://example.com/image.jpg)
+![Alt text pour l'image](http://www.harlemprepschool.org/AWayOutOfNoWayWithPix_files/KDP_SchoolAssembly.jpg)
 
 When she doesn’t work as a CSR project manager at AXA, Ines is consistently finding creative ways to share her self-confidence and open-mindedness to the young banlieusard.e.s, the urban outsiders from the French projects. In 2015, she worked in New York City as consultant, she got deeply inspired by how youth from Harlem and the Queens were empowered, with workshops, lectures and debates training. Looking back to her childhood time in the Paris region inner cities (Stains, Saint-Denis and Sarcelles), Ines realized that social working in the underprivileged urban areas, only based on academic tutoring and cultural visits, was insufficient to prevent their youth from wasting their hidden talents. 
 
