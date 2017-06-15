@@ -1,7 +1,7 @@
 ---
 title:  "Nelson Kamen"
 subtitle: "Teacher"
-image: "img/2017-06-13-11-nelson-kamen.jpeg"
+image: "img/11-nelson-kamen.jpeg"
 ---
 
 # Producing endorphins anywhere, anytime, anyway.
@@ -25,11 +25,11 @@ On his side, Nelson didn’t bother that much. He realized his position of being
  
 He even created his own student crew, International Love, to promote peace during the geopolitical tensions with North Korea. With his crew and talented film-maker __[Jeremy Rubier](https://vimeo.com/jeremyrubier)__, he co-directed a HQ video __*[Nelson dances against the war](https://www.youtube.com/watch?v=H6cVXLEpRPQ)*__ that pays tribute to the city of Seoul. The video had a little buzz, and even got awarded “video of the week” by GQ Magazine. 
  
-Video Nelson Dances Against the War >> https://www.youtube.com/watch?v=H6cVXLEpRPQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H6cVXLEpRPQ" frameborder="0" allowfullscreen></iframe>
  
 The concept works so well that Nelson convinced the Mama Shelter - the fancy French Hotel-Restaurant group he used to work as a waiter every summer - to produce the video brand content for their venues in __ [Paris](https://www.youtube.com/watch?v=zxHuOtijGgk)__, __[Lyon](https://www.youtube.com/watch?v=fp2QUte0hKk)__, __ [Marseille](https://www.youtube.com/watch?v=ezCwkIhDLtM)__ and __[Bordeaux](https://www.youtube.com/watch?v=-xcmf3Dc08k)__. Everywhere Nelson goes, he shines and attracts positive vibes around him. To me, his main strength remains his ability to both respect the local cultures and got his own entire singularity accepted, without any compromises. 
  
-Video Nelson Dances in Paris >> https://www.youtube.com/watch?v=zxHuOtijGgk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxHuOtijGgk" frameborder="0" allowfullscreen></iframe>
  
 In 2014, after three years of preparation, he achieved one his biggest goals: he got accepted into a Master’s of Public Affairs at the very elitist school Sciences Po. I’m not his father, but knowing from where the started, I was really proud of him. A lot of people who knew him in middle or high school couldn’t believe this news. In his cover letter for Sciences Po, he asserted he wanted to become a French diplomat in East-Asia. Apparently at his graduation last year, the project shifted. Nelson finally decided to engage himself into __[Teach For France](http://www.teachforfrance.org/)__, the two-year program in which some fresh elite schools graduates teach in from the most underprivileged areas’ middle and/or high schools. Today, he is currently teaching English courses to middle school students in Seine-Saint-Denis (93). 
  

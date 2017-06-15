@@ -1,7 +1,7 @@
 ---
 title:  "Louis de Gouyon Matignon"
 subtitle: "Political Activist"
-image: "img/2017-06-13-7-louis-de-gouyon-matignon.jpeg"
+image: "img/7-louis-de-gouyon-matignon.jpeg"
 ---
 
 # Championing the world’s most vulnerable ones.
@@ -13,8 +13,7 @@ Four years ago, my organization __Noise la Ville__ invited a panel of four speak
  
 The best way to create strong intercultural bridges with “others” remains learning their language.s. In this regard, whether we love or hate him, Louis de Gouyon Matignon has remarkably earned the Gipsy communities’ true consideration and become their main voice in the public debate. Louis is from the XVIth district of Paris, one the French poshest urban areas. As a French Marquess’ grandson, his social condition was supposed to keep his personal journey far away from the Gipsy communities. But the internet and music, certainly the world’s most effective soft-power channel, changed the narrative. When he was still a high school student, Louis discovered on Youtube gipsy jazz and their main ambassador Django Reinhardt. Quite impressed, he started playing his first guitar chords. He trained himself few days before going to some Gipsy bars and festival. His first contacts with the Gipsy communities happened with his guitar. The connection was brutal and deep, and Louis totally felt in love with this community of outcasts. He started hanging out with his new friends, getting along with their leaders, and unavoidably challenging his initial prejudices towards these people.
  
-Video : GADJO, un prince chez les Manouches 
->> https://www.youtube.com/watch?v=0dRVaJLvQ7Y 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dRVaJLvQ7Y" frameborder="0" allowfullscreen></iframe>
  
 When he was 20, Louis decided to go on a mission: changing perceptions of the Gipsy communities in Europe. During his law studies at the Sorbonne university, he decided to create an association to defend travellers’ rights. 
  

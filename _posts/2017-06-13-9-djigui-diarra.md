@@ -1,10 +1,10 @@
 ---
 title:  "Djigui Diarra"
 subtitle: "Actor, Director & Activist"
-image: "img/2017-06-13-9-Djigui-Diarra.jpeg"
+image: "img/9-djigui-diarra.jpeg"
 ---
 
-#Mastering your own narrative to challenge determinism. 
+# Mastering your own narrative to challenge determinism. 
 
 
 The first time I saw Djigui, this was on the French TV show _Des Paroles & Des Actes_ on January 2015. This was few days after the traumatizing terrorists attacks on Charlie Hebdo’s press media and the Jewish supermarket Hypercacher. As a civil society leader from Grigny - the suburb city 30 km from the center of Paris where the Hyper Cacher terrorist Amedy Coulibaly grew up - he was invited to speak at the debate __"École, laïcité, intégration, et maintenant ?"__ with a variety of politicians, intellectuals and journalists. 
@@ -46,6 +46,6 @@ To me, Djigui’s most impressive achievement remains the friendship he managed 
  
 ![Djigui-Diarra-8](img/djigui-diarra-8.jpg)
  
-Video DNLC >> https://www.youtube.com/watch?v=12nVxJhmk3Y 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12nVxJhmk3Y" frameborder="0" allowfullscreen></iframe>
  
 When he talks about his time at La Femis, Djigui says “I was welcome very well, but I don’t forget why I’m here for”. One of his upcoming main projects is a movie on a French urban projects’ _dead angle_: racism between the arabic and black communities. This is a very ambitious and complex project that will take a lot of time and energy. But again, Djigui will fight, in his mission to work on bringing fresh perspectives of the French _banlieues_, with convictions and dignity, and without hate neither taboos.
