@@ -1,7 +1,7 @@
 # Site settings
 title: N°10
-description: Pouet
+description: "Inspiring leaders from the Paris region"
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: PTA
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://n10.life" # the base hostname & protocol for your site
